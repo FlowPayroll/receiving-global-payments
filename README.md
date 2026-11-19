@@ -1,3 +1,5 @@
+<img width="1774" height="887" alt="Getting Paid Internationally" src="https://github.com/user-attachments/assets/dc753097-d576-48c5-916f-ae18e74ecb18" />
+
 # FlowPayroll | Getting Paid Internationally 🌍
 
 > Country-by-country resources for freelancers and independent contractors working with overseas clients. Explore payment methods, potential costs, foreign-exchange considerations, and the role of **USDT on TRC20, ERC20, and BEP20** when traditional transfers are less practical.
